@@ -1,6 +1,6 @@
 # DIU CGPA Calculator
 
-Welcome to the DIU CGPA Calculator project! This tool helps students of DIU to calculate their CGPA easily and accurately.
+A CGPA calculator for Daffodil International University students, with a Next.js interface and a Hono-based API designed for Cloudflare deployment.
 
 ## Technical Overview
 
